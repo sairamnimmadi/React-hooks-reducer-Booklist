@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-hooks-reducer-Booklist/static/css/main.e1d680f3.chunk.css",
+    "main.js": "/React-hooks-reducer-Booklist/static/js/main.e593f025.chunk.js",
+    "main.js.map": "/React-hooks-reducer-Booklist/static/js/main.e593f025.chunk.js.map",
+    "runtime-main.js": "/React-hooks-reducer-Booklist/static/js/runtime-main.e3460aeb.js",
+    "runtime-main.js.map": "/React-hooks-reducer-Booklist/static/js/runtime-main.e3460aeb.js.map",
+    "static/js/2.75dd7b12.chunk.js": "/React-hooks-reducer-Booklist/static/js/2.75dd7b12.chunk.js",
+    "static/js/2.75dd7b12.chunk.js.map": "/React-hooks-reducer-Booklist/static/js/2.75dd7b12.chunk.js.map",
+    "index.html": "/React-hooks-reducer-Booklist/index.html",
+    "precache-manifest.91f3b22898a5939c6ef7b3596922db5b.js": "/React-hooks-reducer-Booklist/precache-manifest.91f3b22898a5939c6ef7b3596922db5b.js",
+    "service-worker.js": "/React-hooks-reducer-Booklist/service-worker.js",
+    "static/css/main.e1d680f3.chunk.css.map": "/React-hooks-reducer-Booklist/static/css/main.e1d680f3.chunk.css.map",
+    "static/js/2.75dd7b12.chunk.js.LICENSE.txt": "/React-hooks-reducer-Booklist/static/js/2.75dd7b12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3460aeb.js",
+    "static/js/2.75dd7b12.chunk.js",
+    "static/css/main.e1d680f3.chunk.css",
+    "static/js/main.e593f025.chunk.js"
+  ]
+}
